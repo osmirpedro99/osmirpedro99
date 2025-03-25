@@ -1,11 +1,11 @@
 
 
-### Hello, my name is Juan!👋
+### Hello, my name is Osmir Pedro!👋
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ju_4n)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/686961282670264351)
 
-![Zx GitHub stats](https://github-readme-stats.vercel.app/api?username=Zxo21&show_icons=true&theme=tokyonight)
+![Osmir GitHub stats](https://github-readme-stats.vercel.app/api?username=osmirpedro99&show_icons=true&theme=tokyonight)
 
 ### Technologies
 <div style="display: inline_block"><br/>
