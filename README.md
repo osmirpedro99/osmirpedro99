@@ -8,8 +8,14 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 Formado em **Análise e Desenvolvimento de Sistemas**, sou um profissional apaixonado por tecnologia, sempre buscando aprimorar habilidades e explorar novas ferramentas. Minha expertise está no desenvolvimento de **soluções back-end robustas e APIs eficientes**.
+
+
 ---
+
+
 ![Osmir GitHub stats](https://github-readme-stats.vercel.app/api?username=osmirpedro99&show_icons=true&theme=tokyonight)
+
+
 ---
 
 ## 🛠 Tecnologias e Habilidades  
