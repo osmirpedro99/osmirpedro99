@@ -1,5 +1,5 @@
 
-# 💻 Osmir Pedro (ou seu nome)  
+# 💻 Osmir Pedro  
 **Analista de Sistemas e Desenvolvedor de Software | Especialista em Back-end & APIs**  
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
