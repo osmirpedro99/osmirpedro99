@@ -3,11 +3,11 @@
 
 Passionate about technology and dedicated to continuous learning, I hold a degree in **Systems Analysis and Development** and specialize in building **robust back-end solutions and efficient APIs**.  
 
----
+
 
 ![Osmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmirpedro99&show_icons=true&theme=tokyonight&hide_border=true)
 
-
+---
 
 ## 🛠 Technologies
 
