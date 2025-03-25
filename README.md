@@ -5,7 +5,7 @@ Passionate about technology and dedicated to continuous learning, I hold a degre
 
 
 
-![Osmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmirpedro99&show_icons=true&theme=tokyonight&hide_border=true)
+![Osmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmirpedro99&show_icons=true&theme=transparentt&hide_border=true)
 
 ---
 
