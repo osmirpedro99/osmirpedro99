@@ -5,7 +5,10 @@ Passionate about technology and dedicated to continuous learning, I hold a degre
 
 
 
-![Osmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmirpedro99&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmirpedro99&layout=donut-vertical&langs_count=12&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/osmirpedro99/github-readme-stats)
+![Osmir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmirpedro99&show_icons=true&theme=dark)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmirpedro99&layout=donut-vertical&langs_count=12&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/osmirpedro99/github-readme-stats)
+!-->
 
 
 
