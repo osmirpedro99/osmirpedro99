@@ -33,5 +33,4 @@ Beyond coding, I’m an outdoor enthusiast who believes knowledge sharing is key
 ---
 
 📫 **Connect with Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmir-pedro-89139b14b/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmirpedrodonascimentop@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmir-pedro-89139b14b/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmirpedrodonascimentop@gmail.com)  
