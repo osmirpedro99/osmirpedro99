@@ -33,6 +33,7 @@ Passionate about technology and dedicated to continuous learning, I hold a degre
 - **BI and reporting**: created and maintained dashboards in Power BI, with automated update routines.
 - **Generative AI work**: designed and optimized prompts, and implemented automated document reading and analysis.
 - **Innovation**: actively contributed to the development of new digital products.
+
 ---
 
 ## 🌟 About Me  
