@@ -1,5 +1,5 @@
 # 💻 Osmir Pedro  
-**Systems Analyst & Software Developer | Back-end & API Specialist**  
+**Software Developer | Back-end & API Specialist**  
 
 Passionate about technology and dedicated to continuous learning, I hold a degree in **Systems Analysis and Development** and specialize in building **robust back-end solutions and efficient APIs**.  
 
@@ -33,6 +33,17 @@ Passionate about technology and dedicated to continuous learning, I hold a degre
 - **BI and reporting**: created and maintained dashboards in Power BI, with automated update routines.
 - **Generative AI work**: designed and optimized prompts, and implemented automated document reading and analysis.
 - **Innovation**: actively contributed to the development of new digital products.
+
+
+### Technical Skills
+- APIs: Development | Integration | Maintenance | Postman
+- Agile Methodologies: Jira | Kanban | Scrum
+- Automated Testing (TDD): PHPUnit
+- Databases: MySQL | Redis
+- Infrastructure / DevOps: AWS | Apache | Crontabs | Docker | Grafana | Jenkins | NGINX | Prometheus | Traefik
+- Programming Languages: PHP | Python
+- Software Architecture: Clean Code | MVC | SOLID
+- Version Control & CI/CD: Bitbucket | GitHub / Git Flow
 
 ---
 
