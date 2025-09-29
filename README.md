@@ -31,5 +31,8 @@ Apaixonado por tecnologia desde jovem, já são mais de 10 anos explorando e apr
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 ---
+![Osmir' GitHub stats](https://github-readme-stats.vercel.app/api?username=osmirpedro99&theme=swift&line_height=28px&show_icons=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmirpedro99&layout=donut&langs_count=5&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 📫 **Connect with Me**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osmir-pedro-89139b14b/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osmirpedrodonascimentop@gmail.com)  
